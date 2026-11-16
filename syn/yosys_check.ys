@@ -1,0 +1,8 @@
+# Generic synthesis sanity check (no PDK): proves the RTL is synthesizable and
+# gives a rough cell count. Run via ./yosys_check.sh (converts SV with sv2v first).
+# Memories are black boxes, exactly as they would be macros in DC.
+read_verilog voxcore_sv2v.v
+read_verilog ../rtl/third_party/picorv32/picorv32.v
+hierarchy -check -top voxcore_top
+synth -top voxcore_top
+stat

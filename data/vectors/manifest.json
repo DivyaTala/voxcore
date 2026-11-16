@@ -1,0 +1,62 @@
+[
+  {
+    "clip": 0,
+    "file": "0_george_0.wav",
+    "label": 0,
+    "golden_class": 0
+  },
+  {
+    "clip": 1,
+    "file": "1_george_0.wav",
+    "label": 1,
+    "golden_class": 1
+  },
+  {
+    "clip": 2,
+    "file": "2_george_0.wav",
+    "label": 2,
+    "golden_class": 2
+  },
+  {
+    "clip": 3,
+    "file": "3_george_0.wav",
+    "label": 3,
+    "golden_class": 3
+  },
+  {
+    "clip": 4,
+    "file": "4_george_0.wav",
+    "label": 4,
+    "golden_class": 4
+  },
+  {
+    "clip": 5,
+    "file": "5_george_0.wav",
+    "label": 5,
+    "golden_class": 5
+  },
+  {
+    "clip": 6,
+    "file": "6_george_0.wav",
+    "label": 6,
+    "golden_class": 6
+  },
+  {
+    "clip": 7,
+    "file": "7_george_0.wav",
+    "label": 7,
+    "golden_class": 7
+  },
+  {
+    "clip": 8,
+    "file": "8_george_0.wav",
+    "label": 8,
+    "golden_class": 8
+  },
+  {
+    "clip": 9,
+    "file": "9_george_0.wav",
+    "label": 9,
+    "golden_class": 9
+  }
+]

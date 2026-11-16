@@ -1,0 +1,16 @@
+sim/obj_*/
+syn/voxcore_sv2v.v
+syn/yosys.log
+syn/dc/work/
+syn/dc/out/
+syn/dc/reports/
+fw/firmware.elf
+fw/firmware.bin
+__pycache__/
+verif/isa/build/
+verif/rand/build/
+sim/*.log
+sim/obj_aes_iv/
+syn/yosys.log
+verif/perf/bpred.elf
+verif/perf/bpred.bin
